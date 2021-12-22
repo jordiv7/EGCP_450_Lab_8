@@ -1,0 +1,1 @@
+"./SSEG.obj" "./SysTick.obj" "./main.obj" "./msp432_startup_ccs.obj" "../msp432p401r.cmd" -llibc.a 
